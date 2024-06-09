@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DisenoCotrollers",
+            "request": "launch",
+            "mainClass": "Controll.DisenoCotrollers",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "DiseñoControll_f4a22f09"
+        }
+    ]
+}
