@@ -1,7 +1,7 @@
 ## Diseño Controller
 ste código de Java define una aplicación JavaFX que organiza diversos controles de interfaz de usuario dentro de un AnchorPane. La aplicación contiene elementos de interfaz como Button, CheckBox, Hyperlink, RadioButton, Label, TextField, PasswordField, TextArea, ProgressIndicator, ProgressBar y Slider. A continuación se presenta una explicación en párrafos sobre la estructura y el propósito del código:
 ## Presnetacion
-
+![](https://github.com/AlvaradoTrivino/Dise-oallControll/blob/main/Captura%20de%20pantalla%20(152).png)
 ## Explicacion
 La clase DisenoCotrollers extiende Application y sobreescribe el método start, que es el punto de entrada principal para cualquier aplicación JavaFX. Dentro del método start, se crea un AnchorPane, que sirve como el contenedor raíz para los componentes de la interfaz de usuario.
 
